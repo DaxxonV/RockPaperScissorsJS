@@ -1,2 +1,2 @@
 # RockPaperScissorsJS
-My first vanillaJS rock paper scissors game
+Rock paper scissors game in vanilla JS
