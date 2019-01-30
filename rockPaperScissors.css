@@ -1,0 +1,16 @@
+.center-text {
+    text-align: center;
+}
+
+.image-box img {
+    height: 15%;
+    width: 15%;
+}
+
+img {
+    border: medium solid white;
+}
+
+img:hover {
+    border: medium solid black;
+}
